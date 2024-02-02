@@ -1,8 +1,6 @@
-## *Projetos Pessoais Desenvolvimento* ##
+# Projetos Pessoais Desenvolvimento #
 
-# CRUD com Arquitetura ASP .NET Core Web App Model View Controller (MVC) #
-
-Estrutura: MVC (Model View Controller)
+## 1° *CRUD com Arquitetura ASP .NET Core Web App Model View Controller (MVC)* ##
 
 Visual Studio .NET 6
 
